@@ -15,7 +15,8 @@ ArticlePress is distributed under the terms of the GNU GPL
 
 ## Description 
 
-ArticlePress is a top notch music WordPress theme. Suitable for Blogging,Information Website. The theme design is creative and follows the latest design trends. Checkout demo: https://item.themeasia.net/articlepress/
+ArticlePress is a top notch music WordPress theme. Suitable for Blogging,Information Website. The theme design is creative and follows the latest design trends. 
+Checkout demo: https://wordpress.org/themes/articlepress/
 
 
 ## Installation 
