@@ -2076,3 +2076,6 @@ p.site-copyright {
     border-top: 1px solid #ddd;
     padding-top: 24px;
 }
+.post-tags a {
+    text-transform: capitalize;
+}
