@@ -1066,6 +1066,10 @@ header.header {
     background-color: var( --primary-color );
     padding: 6px 0;
 }
+a.articlepress-logo-text.navbar-brand h3 {
+    color: #fff;
+    margin-bottom: 0;
+}
 .main-menu {
     float: right;
     display: inline-block;
@@ -1443,6 +1447,7 @@ h2.widget-title {
     padding-left: 20px;
     color: #fff;
     border-left: 6px solid #6752e8;
+    margin-bottom: 0 !important;
 }
 .widget {
     border: 1px solid #eae6e6;
@@ -1509,14 +1514,15 @@ section.single-page-section {
 .blog-info-single-page {
     text-align: center;
 }
-h2.single-page-title {
-    font-size: 30px;
-    text-align: center;
+h1.single-page-title {
+    font-size: 38px;
+    text-align: left;
     margin-top: 30px;
     margin-bottom: 40px;
     margin-left: auto;
     margin-right: auto;
     color: var(--primary-dark);
+    font-weight: 300;
 }
 .single-page-section p {
     margin: auto;
